@@ -2,7 +2,7 @@
 body{
     margin: 0;
     padding: 0;
-    background-image: url("fundo_p1.avif");
+    background-image: url("fundo_p.avif");
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -18,7 +18,7 @@ body{
 }
 
 .card{
-     margin-right: 15%;
+     margin-left: 9%;
      box-shadow: 0 4px 8px rgba(54, 53, 53, 0.548) !important;
      border-radius: 30px;
     
