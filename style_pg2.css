@@ -18,14 +18,12 @@ body{
 }
 
 .card{
-     margin-left: 70px;
+     margin-left: 10%;
      box-shadow: 0 4px 8px rgba(54, 53, 53, 0.548) !important;
      border-radius: 30px;
     
 }
-.card-body{
-    width: 290px;
-}
+
 
 
 
